@@ -3,7 +3,7 @@ A server side tool to generate 5000choyen style image with node.js
 
 一个服务端调用canvas生成5000choyen样式图片的工具
 
-![](https://s3.ax1x.com/2021/03/03/6AjFET.png)
+![](https://ftp.bmp.ovh/imgs/2021/03/dbb16b0d3641343b.png)
 
 ### 项目来源
 
