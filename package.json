@@ -1,0 +1,16 @@
+{
+  "name": "5000choyen-nodejs",
+  "version": "1.0.0",
+  "description": "A server side tool to generate 5000choyen style image with node.js",
+  "main": "webapi.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node webapi.js"
+  },
+  "author": "Akegarasu",
+  "license": "GPL-3.0"
+}
