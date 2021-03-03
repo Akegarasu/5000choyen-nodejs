@@ -20,9 +20,9 @@ A server side tool to generate 5000choyen style image with node.js
 确保你已经配制好git、nodejs、npm
 
 ```
-npm install canvas
-npm install express
 git clone https://github.com/Akegarasu/5000choyen-nodejs.git
+cd 5000choyen-nodejs
+npm install
 node ./webapi.js
 ```
 
